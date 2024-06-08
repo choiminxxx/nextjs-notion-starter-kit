@@ -19,6 +19,7 @@ export default siteConfig({
 
   // social usernames (optional)
   twitter: 'choiminxx_x',
+  instagram: 'choiminxx_',
   //github: 'transitive-bullshit',
   //linkedin: 'fisch2',
   // mastodon: '#', // optional mastodon profile URL, provides link verification
