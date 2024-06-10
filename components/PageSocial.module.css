@@ -33,7 +33,6 @@
   left: 0;
   right: 0;
   bottom: 0;
-
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -103,9 +102,6 @@
     #bc1888 100%
   );
 }
-/* .instagram:hover {
-  background: #dc2743;
-} */
 
 .github .actionBgPane {
   background: #c9510c;
